@@ -1,0 +1,12 @@
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.ConsoleHost\bin\Debug\MyWCFApp.ConsoleHost.exe.config
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.ConsoleHost\bin\Debug\MyWCFApp.ConsoleHost.exe
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.ConsoleHost\bin\Debug\MyWCFApp.ConsoleHost.pdb
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.ConsoleHost\bin\Debug\MyWCF.Services.dll
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.ConsoleHost\bin\Debug\MyWCFApp.Contracts.dll
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.ConsoleHost\bin\Debug\MyWCF.Services.pdb
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.ConsoleHost\bin\Debug\MyWCFApp.Contracts.pdb
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.ConsoleHost\obj\Debug\MyWCFApp.ConsoleHost.csprojAssemblyReference.cache
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.ConsoleHost\obj\Debug\MyWCFApp.ConsoleHost.csproj.CoreCompileInputs.cache
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.ConsoleHost\obj\Debug\MyWCFApp.ConsoleHost.csproj.CopyComplete
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.ConsoleHost\obj\Debug\MyWCFApp.ConsoleHost.exe
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.ConsoleHost\obj\Debug\MyWCFApp.ConsoleHost.pdb

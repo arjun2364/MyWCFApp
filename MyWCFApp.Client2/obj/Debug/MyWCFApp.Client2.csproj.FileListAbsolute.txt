@@ -1,0 +1,7 @@
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.Client2\bin\Debug\MyWCFApp.Client2.exe.config
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.Client2\bin\Debug\MyWCFApp.Client2.exe
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.Client2\bin\Debug\MyWCFApp.Client2.pdb
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.Client2\obj\Debug\MyWCFApp.Client2.csproj.CoreCompileInputs.cache
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.Client2\obj\Debug\MyWCFApp.Client2.exe
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.Client2\obj\Debug\MyWCFApp.Client2.pdb
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.Client2\obj\Debug\MyWCFApp.Client2.csprojAssemblyReference.cache

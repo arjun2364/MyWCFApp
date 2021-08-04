@@ -1,0 +1,6 @@
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.Contracts\bin\Debug\MyWCFApp.Contracts.dll
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.Contracts\bin\Debug\MyWCFApp.Contracts.pdb
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.Contracts\obj\Debug\MyWCFApp.Contracts.csprojAssemblyReference.cache
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.Contracts\obj\Debug\MyWCFApp.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.Contracts\obj\Debug\MyWCFApp.Contracts.dll
+C:\Users\Arjunsinh Jadeja\source\repos\MyWCFApp\MyWCFApp.Contracts\obj\Debug\MyWCFApp.Contracts.pdb
